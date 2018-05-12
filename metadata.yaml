@@ -1,0 +1,30 @@
+_repo: Satan-s-Invisible-World-Displayed-or-Despairing-DemocracyA-Study-of-Greater-New-York_44476
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44476-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stead, W. T. (William Thomas)
+    alias: Stead, William Thomas
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '9288'
+    url: http://www.gutenberg.org/2009/agents/9288
+    wikipedia: http://en.wikipedia.org/wiki/William_Thomas_Stead
+description: ''
+gutenberg_issued: '2013-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Politics and government'
+- !lcc 'HV'
+- !lcsh 'Police -- New York (State) -- New York'
+title: "Satan's Invisible World Displayed; or, Despairing Democracy\r\nA Study of\
+  \ Greater New York"
+url: http://www.gutenberg.org/ebooks/44476

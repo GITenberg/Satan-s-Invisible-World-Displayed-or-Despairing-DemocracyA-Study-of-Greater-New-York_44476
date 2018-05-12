@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9288
     wikipedia: http://en.wikipedia.org/wiki/William_Thomas_Stead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44476#Satan-s-Invisible-World-Displayed-or-Despairing-DemocracyA-Study-of-Greater-New-York
 gutenberg_issued: '2013-12-21'
 gutenberg_type: Text
 identifiers:
